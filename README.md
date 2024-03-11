@@ -1,6 +1,9 @@
 # Credit_card_fraud_detection
 
-This code is a Python implementation for credit card fraud detection using two outlier detection models: Isolation Forest and Local Outlier Factor. Here's a summary of the code:
+This code is a Python implementation for credit card fraud detection using two outlier detection models: Isolation Forest and Local Outlier Factor. 
+Dataset Link:- https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Here's a summary of the code:
 
 1. Import Libraries: The necessary libraries for data analysis, visualization, and machine learning are imported, including NumPy, Pandas, Matplotlib, Seaborn, and scikit-learn modules.
 
